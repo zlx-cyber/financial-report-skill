@@ -1,0 +1,5 @@
+name: "financial_report_forensics"
+title: "财报验真（欠条法）"
+description: "用应收账款成色和现金含量验一本财报的真假，并算出打折后的每股真实价值，适合拿到一只股票先排雷时用。"
+category: "Money and investing"
+include_in_prompt: true
